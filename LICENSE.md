@@ -1,4 +1,4 @@
-# 
+# Elite pancakeswap trading bot tools for Mac OS | Professional pancakeswap trading bot tools for PC Windows. Featuring mean reversion strategy and decentralized exchange api — optimized for maximum performance.
 
 
 
